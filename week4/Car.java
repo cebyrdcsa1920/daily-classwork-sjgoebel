@@ -15,5 +15,8 @@ public class Car
         amountOfGas = 12.5;
     }
 
-
+    public String toString()
+    {
+        return "This is my Mustang";
+    }
 }
